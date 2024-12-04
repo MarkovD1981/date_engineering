@@ -6704,18 +6704,6 @@
             <mxPoint x="-365" y="2518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uOy461_HQKGHbnf8mLzX-4" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;3&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1734" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uOy461_HQKGHbnf8mLzX-5" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;5&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="1980" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uOy461_HQKGHbnf8mLzX-6" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;20&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-250" y="2310" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uOy461_HQKGHbnf8mLzX-7" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;8&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="2585" width="100" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
