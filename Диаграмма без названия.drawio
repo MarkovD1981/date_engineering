@@ -8091,7 +8091,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIcO0fH322Ozs48a9MWd-17" value="a_buy_product_info" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="DIcO0fH322Ozs48a9MWd-17" value="a_buy_product_start" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2004" y="3470" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="DIcO0fH322Ozs48a9MWd-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="DIcO0fH322Ozs48a9MWd-17" vertex="1">
@@ -8286,7 +8286,7 @@
             <mxPoint x="-1980" y="3280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0kaUxXynX5Qe5tU0-Drz-5" value="a_buy_product_info" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="0kaUxXynX5Qe5tU0-Drz-5" value="a_buy_product_amount" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2200" y="3460" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0kaUxXynX5Qe5tU0-Drz-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="0kaUxXynX5Qe5tU0-Drz-5" vertex="1">
